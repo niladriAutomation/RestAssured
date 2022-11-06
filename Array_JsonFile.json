@@ -1,0 +1,14 @@
+{
+  "Adress": [
+    {
+      "ward": "11",
+      "dept": "Dev"
+    },
+    {
+      "Building": "2rd",
+      "Floor": "1th"
+    }
+  ],
+  "id": "{{id}}",
+  "Name": "{{fullname}}"
+}
