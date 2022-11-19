@@ -1,0 +1,170 @@
+{
+  "apistudents": [
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "Details": {
+        "id": "01",
+        "Name": "Niladri Das"
+      },
+      "Address": " CA Road",
+      "sector": "5",
+      "id": 5
+    },
+    {
+      "Address": " CA Road",
+      "sector": "5",
+      "id": 6
+    },
+    {
+      "Details": {
+        "id": "02",
+        "Name": "Rahul Singh"
+      },
+      "Address": " CA Road",
+      "sector": "5",
+      "id": 7
+    },
+    {
+      "Adress": [
+        {
+          "ward": "10",
+          "dept": "QA"
+        },
+        {
+          "Building": "3rd",
+          "Floor": "5th"
+        }
+      ],
+      "id": "N_04",
+      "Name": "Niladri Das"
+    },
+    {
+      "Adress": [
+        {
+          "ward": "11",
+          "dept": "Dev"
+        },
+        {
+          "Building": "2rd",
+          "Floor": "1th"
+        }
+      ],
+      "id": "R_01",
+      "Name": "Rahul Singh"
+    },
+    {
+      "Adress": [
+        {
+          "ward": "11",
+          "dept": "Dev"
+        },
+        {
+          "Building": "2rd",
+          "Floor": "1th"
+        }
+      ],
+      "id": "{{id}}",
+      "Name": "{{fullname}}"
+    },
+    {
+      "Adress": [
+        {
+          "ward": "11",
+          "dept": "Dev"
+        },
+        {
+          "Building": "2rd",
+          "Floor": "1th"
+        }
+      ],
+      "id": "1344415062",
+      "Name": "ram_singh"
+    },
+    {
+      "firstname": "Hari",
+      "lastname": "kishore",
+      "designation": "Manager",
+      "id": "0"
+    },
+    {
+      "firstname": "Hari",
+      "lastname": "kishore",
+      "designation": "Manager",
+      "id": "-572828594"
+    },
+    {
+      "firstname": "Hariom",
+      "lastname": "kishore",
+      "designation": "Manager",
+      "id": "13"
+    },
+    {
+      "firstname": "Tushar",
+      "lastname": "joshi",
+      "designation": "QA",
+      "id": "F_hTAGh",
+      "address": {
+        "wardnum": "100",
+        "building": "2nd",
+        "housenum": "10/2",
+        "adresstype": "Primary",
+        "sector": "7"
+      }
+    },
+    {
+      "firstname": "Tushar",
+      "lastname": "joshi",
+      "designation": "QA",
+      "id": "TJ_09",
+      "address": [
+        {
+          "wardnum": "31",
+          "building": "1",
+          "housenum": "5",
+          "adresstype": "secondary",
+          "sector": "3"
+        },
+        {
+          "wardnum": null,
+          "building": null,
+          "housenum": null,
+          "adresstype": null,
+          "sector": null
+        }
+      ]
+    },
+    {
+      "firstname": "Tushar",
+      "lastname": "joshi",
+      "designation": "QA",
+      "id": "TJ_10",
+      "address": [
+        {
+          "wardnum": "700",
+          "building": "8",
+          "housenum": "12",
+          "adresstype": "primary",
+          "sector": "1"
+        },
+        {
+          "wardnum": "31",
+          "building": "1",
+          "housenum": "5",
+          "adresstype": "secondary",
+          "sector": "3"
+        }
+      ]
+    }
+  ],
+  "devopsstudets": [],
+  "seleniumstudents": [],
+  "Automationstudents": []
+}
